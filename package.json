@@ -1,0 +1,15 @@
+{
+  "name": "json-logger-server",
+  "version": "1.0.0",
+  "description": "A simple server that logs JSON requests to a file and console",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
